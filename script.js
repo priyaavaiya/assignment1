@@ -1,4 +1,4 @@
 function showMessage() {
-    alert("Git setup is working!");
+    alert("Git setup is finally working!");
 }
 
